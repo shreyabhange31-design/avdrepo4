@@ -8,4 +8,4 @@ data= {
 
 print('student Details')
 df=pd.DataFrame(data)
-print(df)
+print(data)
